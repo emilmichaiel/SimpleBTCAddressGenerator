@@ -4,9 +4,6 @@ import com.gemz.dev.model.BTC;
 import com.gemz.dev.util.BTCUtil;
 import com.gemz.dev.util.RandomPrivateKeyGenerator;
 
-/**
- * Hello world!
- */
 public class App {
 
     public static void main(String[] args) {
