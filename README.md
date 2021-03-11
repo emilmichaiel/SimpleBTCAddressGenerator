@@ -1,6 +1,6 @@
 # Description
 
-This is a simple application to generate Bitcoin address on the go, implemented using [BitcoinJ Library](https://github.com/bitcoinj/bitcoinj)
+A simple application to generate random Bitcoin address on the go, implemented using [BitcoinJ Library](https://github.com/bitcoinj/bitcoinj)
 
 # Prerequest
 
